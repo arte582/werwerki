@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header b {
+    color: blue;
+}
+
+header a {
+    text-decoration: none;
+    border-radius: 10px ;
+    padding: 5px;
+    background-color:blue ;
+    color: white;
+}
+header {
+    border: 6px solid blue;
+    border-radius: 20px;
+}
+
+h1 i {
+    background-color: aquamarine;
+    color: blue;
+    border-radius: 20px;
+    font-size: 50px;
+    
+}
+
+footer {
+    background-color: burlywood;
+}
+
+footer p {
+    background-color:antiquewhite ;
+    border-radius: 15px;
+    padding: 3px;
+
+}
+.razdel {
+    background-color: brown;
+    border-radius: 10px;
+}
